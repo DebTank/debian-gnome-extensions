@@ -1,0 +1,16 @@
+mkdir store
+mv alternate-tab@gnome-shell-extensions.gcampax.github.com store
+mv apps-menu@gnome-shell-extensions.gcampax.github.com store
+mv auto-move-windows@gnome-shell-extensions.gcampax.github.com store
+mv drive-menu@gnome-shell-extensions.gcampax.github.com store
+mv install.info store
+mv launch-new-instance@gnome-shell-extensions.gcampax.github.com store
+mv native-window-placement@gnome-shell-extensions.gcampax.github.com store
+mv places-menu@gnome-shell-extensions.gcampax.github.com store
+mv README.md store
+mv screenshot-window-sizer@gnome-shell-extensions.gcampax.github.com store
+mv TopIcons@phocean.net store
+mv user-theme@gnome-shell-extensions.gcampax.github.com store
+mv window-list@gnome-shell-extensions.gcampax.github.com store
+mv windowsNavigator@gnome-shell-extensions.gcampax.github.com store
+mv workspace-indicator@gnome-shell-extensions.gcampax.github.com store
