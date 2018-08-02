@@ -9,7 +9,7 @@ drwxr-xr-x 2 tender root 4096 Aug  2 12:02 launch-new-instance@gnome-shell-exten
 -rwxrwxrwx 1 tender root  888 Aug  1 11:41 mover
 drwxr-xr-x 2 tender root 4096 Aug  2 12:02 native-window-placement@gnome-shell-extensions.gcampax.github.com
 drwxr-xr-x 2 tender root 4096 Aug  2 12:02 places-menu@gnome-shell-extensions.gcampax.github.com
--rw------- 1 tender root   26 Jul 31 21:15 README.md
+-rw------- 1 tender root  110 Aug  2 12:35 README.md
 drwxr-xr-x 2 tender root 4096 Aug  2 12:02 screenshot-window-sizer@gnome-shell-extensions.gcampax.github.com
 drwxr-xr-x 2 tender root 4096 Jul 31 20:43 TopIcons@phocean.net
 drwxr-xr-x 2 tender root 4096 Aug  2 12:02 user-theme@gnome-shell-extensions.gcampax.github.com
@@ -35,12 +35,12 @@ drwx------ 4 tender tender 4096 Aug  1 11:50 icon-hider@kalnitsky.org
 drwx------ 4 tender tender 4096 Aug  1 15:51 keyman@dpoetzsch.github.com
 drwx------ 3 tender tender 4096 Aug  1 12:28 native-window-placement@gnome-shell-extensions.gcampax.github.com
 drwxr-xr-x 4 tender tender 4096 Jul 30 10:54 netspeed@hedayaty.gmail.com
+-rw------- 1 tender tender  109 Aug  2 12:33 README.md
 drwx------ 2 tender tender 4096 Aug  1 15:29 refresh-wifi@kgshank.net
 drwx------ 3 tender tender 4096 Aug  2 12:09 screenshot-window-sizer@gnome-shell-extensions.gcampax.github.com
 drwx------ 5 tender tender 4096 Aug  2 12:22 show-desktop@l300lvl.tk
 drwxr-xr-x 5 tender tender 4096 Jul 30 11:42 sound-output-device-chooser@kgshank.net
 drwx------ 5 tender tender 4096 Aug  1 15:26 TeaTime@oleid.mescharet.de
-drwx------ 5 tender tender 4096 Aug  2 12:09 TopIcons@phocean.net
 drwx------ 6 tender tender 4096 Jul 31 20:09 unite@hardpixel.eu
 drwx------ 3 tender tender 4096 Aug  2 12:09 user-theme@gnome-shell-extensions.gcampax.github.com
 drwx------ 4 tender tender 4096 Aug  1 12:30 window-list@gnome-shell-extensions.gcampax.github.com
